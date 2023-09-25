@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Youtube%20Videos/mlprojecthindi/mlprojecthindi/mlruns/0/3c40c261ea9f4847a3e7044072cd205c/artifacts
+end_time: 1695535364608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c40c261ea9f4847a3e7044072cd205c
+run_name: stately-perch-367
+run_uuid: 3c40c261ea9f4847a3e7044072cd205c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695535361224
+status: 3
+tags: []
+user_id: win10
